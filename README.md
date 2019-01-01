@@ -1,0 +1,2 @@
+# FlipkartScraper
+Flipkart Scrapper
